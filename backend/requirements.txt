@@ -1,2 +1,12 @@
 fastapi
 uvicorn
+
+#orm
+sqlalchemy
+
+# to connect orm with postgresql
+psycopg2
+
+
+# for handling env variables
+python-dotenv
