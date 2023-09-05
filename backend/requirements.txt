@@ -10,3 +10,10 @@ psycopg2
 
 # for handling env variables
 python-dotenv
+
+# for email validation
+pydantic[email]
+
+
+# for password hashing
+passlib[bcrypt]
